@@ -9,7 +9,7 @@ const Header = () => {
     <span className='headerTitleLg'> Blog</span>
   </div>
   <img className='headerImg'
-  src="" alt="" />
+  src="https://images.pexels.com/photos/11640926/pexels-photo-11640926.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="" />
    </div>
   )
 }
